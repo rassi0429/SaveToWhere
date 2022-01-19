@@ -1,7 +1,7 @@
 # SaveToWhere
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/)  
-The text message will be copied to the clipboard by the trigger
+Just display the save destination
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
