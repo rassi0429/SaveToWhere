@@ -31,7 +31,7 @@ namespace SaveToWhere
             {
                 if(str == "Interaction.SaveToInventory")
                 {                 
-                    __result = "Save To : \n /" + InventoryBrowser.CurrentUserspaceInventory?.CurrentPath;
+                    __result = "Save To : \n /" + InventoryBrowser.CurrentUserspaceInventory?.CurrentPath.Replace("\\","/");
                 }
             }
         }
